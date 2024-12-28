@@ -1,10 +1,4 @@
-# SmartStock
-preview SmartStock: https://admirable-taffy-2c8fd6.netlify.app/
-
-
-Here’s a more detailed and emoji-rich GitHub description for **SmartStock**, complete with added text:
-
----
+# SmartStock: https://admirable-taffy-2c8fd6.netlify.app/
 
 ### 📦 **SmartStock** - Inventory Management for Stores and Companies 🏪💼
 
